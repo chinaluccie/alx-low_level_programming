@@ -21,12 +21,13 @@ int main(void)
 
 	else if(n == 0)
 	{
-		printf("%d is 0\n", n);
+		printf("%d is zero\n", n);
 	}
 
 	else if(n < 0)
 	{
 		printf("%d is negative\n", n);
 	}
+
 	return (0);
 }
